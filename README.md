@@ -1,12 +1,12 @@
-# Softwareentwicklung SoSe2022 - Aufgabe 01
+# Softwareentwicklung SoSe2023 - Aufgabe 01
 
 Mit dem Aufgabeblatt werden die in der Vorlesung vorgestellten Basiskonzepte der Programmiersprache C# vertieft.
 
 ## Bearbeitungszeit
 
-SWE: 9. Mai - 13. Mai 2022 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
+SWE: 8. Mai - 12. Mai 2023 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
 
-Einführung in SWE: 9. Mai - 20. Mai 2022 (KGB, BENG, VTC, MB)
+Einführung in SWE: 15. Mai - 26. Mai 2023 (KGB, BENG, VTC, MB)
 
 
 ## 1. Datentypen, Ein- und Ausgabe, Auswahl
